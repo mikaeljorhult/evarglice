@@ -20,6 +20,8 @@ evarglice = {
 				object[i].attachEvent('on' + type, func);
 			}
 		}
+		
+		return object;
 	},
 	
 	unbind: function(type, object, func) {
@@ -30,6 +32,8 @@ evarglice = {
 				object[i].detachEvent('on' + type, func);
 			}
 		}
+		
+		return object;
 	},
 	
 	init: function() {
