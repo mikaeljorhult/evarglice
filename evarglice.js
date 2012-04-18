@@ -2,7 +2,7 @@
  * evarglice
  * minimalistic event delegation.
  * 
- * @version 0.1.0
+ * @version 0.1.1
  * @author Mikael Jorhult
  * @license http://mikaeljorhult.mit-license.org MIT
  *
